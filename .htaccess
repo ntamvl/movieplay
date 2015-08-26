@@ -1,0 +1,6 @@
+Modpagespeed on
+
+ModPagespeedEnableFilters collapse_whitespace
+ModPagespeedEnableFilters rewrite_javascript
+ModPagespeedEnableFilters combine_javascript
+ModPagespeedEnableFilters rewrite_css
